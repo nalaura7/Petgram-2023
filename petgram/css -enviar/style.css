@@ -1,0 +1,134 @@
+#petgram{
+    width:24%;
+    height:10%;
+  }
+
+form{
+    background-color: white;
+    margin: auto;
+    width: 600px;
+  }
+
+.enviar{
+background-color: rgb(81, 82, 82);  
+border-radius: 7px 8px 7px 8px;
+border: none;
+color: white;
+width: 98.5%;
+height: 80%;
+}
+
+#envio{
+background-color:rgb(81, 82, 82);  
+border: none;
+color: white;
+width: 72%;
+margin-bottom: 1%;
+padding: 1.1%;
+float: right;
+margin-right: 13%;
+}
+ 
+hr{
+    border-top: 1% solid rgb(199, 199, 199);
+    width: 62%;
+}
+
+#meucomenta{
+  width: 4.5%; 
+  margin-left: 35%;
+}
+
+.comentar{
+  width: 57%;
+  padding: 1.6%;
+  border: 1% solid rgb(255, 255, 255);
+  font-family:'Nunito', sans-serif;
+  font-size: 100%;
+  float: right;
+  margin-top: 0.5%;
+  color: rgb(100, 100, 100);
+}
+
+#lupa{
+    width: 4%;
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+#addpessoa{
+    width: 6%;
+    float: right;
+    margin-top: 1%;
+    margin-right: 1%;
+}
+
+#fotoperfil{
+    width: 12%;
+    border-radius: 1000px 1000px 1000px 1000px;
+    margin-top: 3%;
+    float: left;
+    margin-bottom: 3%;
+}
+
+.seta{
+    width: 10%;
+    font-family:'Nunito', sans-serif;
+    font-size: 100%;
+    float: left;
+    margin-left: 15%;
+    margin-top: 0%;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    padding: 3%;
+}
+
+.grandebox{
+    width: 40%;
+    height: 80px;
+    float: left;
+    margin-left: 18%;
+}
+
+.nomegeral{
+    width: 50%;
+    height: 100px;
+    float: left;
+    padding: 5%;
+}
+
+.geralmeu{
+    width: 50%;
+    height: 100px;
+    float: left;
+    padding: 7%;
+}
+
+.nomecima{
+    font-family:'Nunito', sans-serif;
+    font-weight: bold;
+    font-size: 100%;
+}
+.nomembaixo{
+    color: rgb(112, 112, 112);
+    font-family:'Nunito', sans-serif;
+    font-size: 87%;
+}
+
+.botaoenviar{
+    margin-top: 2%;
+    height: 24px;
+    width: 9%;
+    float: right;
+    margin-right: 20%;
+    background-color: rgb(60, 135, 233);
+    color: white;
+    font-family:'Nunito', sans-serif;
+    font-size: 97%;
+    text-align: center;
+    border-radius: 265px  266px  265px  266px;
+}
+.botaoenviar:hover{
+    background-color: rgb(102, 102, 102);
+    color: rgb(214, 214, 214);
+}
